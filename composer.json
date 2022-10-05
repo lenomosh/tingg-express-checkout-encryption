@@ -1,0 +1,13 @@
+{
+    "name": "lenomosh/tingg-express-checkout-encryption",
+    "authors": [
+        {
+            "name": "Lennox Omondi",
+            "email": "omondilenox@outlook.com"
+        }
+    ],
+    "require": {
+        "cellulant/checkout_encryption": "dev-master",
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
